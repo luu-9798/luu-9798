@@ -1,7 +1,7 @@
 # 🛠 My Tools
-1. Java
-2. Kotlin
-3. Swift
+1. Kotlin
+2. Swift
+3. Java
 
 # 🔥 My Stats
 ![luu-9798's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-9798&theme=dracula&show_icons=true&count_private=true&line_height=27)
